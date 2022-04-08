@@ -1,0 +1,15 @@
+Copyright (c) 2020-2021, RTE (https://www.rte-france.com)
+This Source Code Form is subject to the terms of the Mozilla Public License, version 2.0.
+If a copy of the Mozilla Public License, version 2.0 was not distributed with this file,
+you can obtain one at http://mozilla.org/MPL/2.0/.
+SPDX-License-Identifier: MPL-2.0
+This file is part of MILP-Agent, a DC-base agent implements for power grid control.
+
+Lead Developers:
+    - François Quentin
+
+Main Contributers:
+    - Manuel Ruiz
+    - Noureddine Henka
+    - Sami Tazi
+    - Benjamin Donnot
